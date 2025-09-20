@@ -10,60 +10,60 @@ Using Power BI, I have created reports and dashboards that provide insights into
 
 📂 About the Dataset (2021)
 
-Dataset contains details of football players, their current clubs, and various performance measures.
+1.Dataset contains details of football players, their current clubs, and various performance measures.
 
-Metrics include (examples): goals scored, assists, passing accuracy, defensive stats, and overall ratings.
+2.Metrics include (examples): goals scored, assists, passing accuracy, defensive stats, and overall ratings.
 
-Player details also include club, nationality, market value, and position.
+3.Player details also include club, nationality, market value, and position.
 
-The dataset enables comparative analysis across players to identify the best fit for the new club.
+4.The dataset enables comparative analysis across players to identify the best fit for the new club.
 
 🎯 Objectives
 
-Select 14–16 key players to form the main roster.
+1.Select 14–16 key players to form the main roster.
 
-Identify 18–22 potential players to provide management with multiple hiring options.
+2.Identify 18–22 potential players to provide management with multiple hiring options.
 
-Ensure player choices are backed by performance data and aligned with the limited budget.
+3.Ensure player choices are backed by performance data and aligned with the limited budget.
 
-Provide stakeholders with interactive Power BI reports for better decision-making.
+4.Provide stakeholders with interactive Power BI reports for better decision-making.
 
 📊 Power BI Reports & Dashboards
 
 The Power BI reports include:
 
-Player Performance Dashboard – Compare players across different performance metrics.
+1.Player Performance Dashboard – Compare players across different performance metrics.
 
-Cost vs. Performance Analysis – Helps optimize budget allocation.
+2.Cost vs. Performance Analysis – Helps optimize budget allocation.
 
-Position-wise Selection – Visual breakdown of available talent per role (Forwards, Midfielders, Defenders, Goalkeepers).
+3.Position-wise Selection – Visual breakdown of available talent per role (Forwards, Midfielders, Defenders, Goalkeepers).
 
-Top Recommended Players – Data-backed shortlist of players most suitable for the club.
+4.Top Recommended Players – Data-backed shortlist of players most suitable for the club.
 
-Final Squad Recommendation – Suggested 14–16 players for the first team, with 18–22 in the extended pool.
+5.Final Squad Recommendation – Suggested 14–16 players for the first team, with 18–22 in the extended pool.
 
 🏆 Expected Outcomes
 
-A data-driven player selection strategy for the ultralearnManral football club.
+1.A data-driven player selection strategy for the ultralearnManral football club.
 
-Clear visibility of player strengths, weaknesses, and market value.
+3.Clear visibility of player strengths, weaknesses, and market value.
 
-Evidence-backed recommendations for management to make hiring decisions.
+4.Evidence-backed recommendations for management to make hiring decisions.
 
-Flexible selection options within budget constraints.
+5.Flexible selection options within budget constraints.
 
 🚀 Tools & Technologies
 
-Power BI – Data visualization and dashboard creation
+1.Power BI – Data visualization and dashboard creation
 
-Dataset – Player performance & club information
+2.Dataset – Player performance & club information
 
-Excel/CSV – Data preprocessing before loading into Power BI
+3.Excel/CSV – Data preprocessing before loading into Power BI
 
 📌 How to Use
 
-Open the Power BI file (.pbix).
+1.Open the Power BI file (.pbix).
 
-Explore interactive dashboards to filter and compare players.
+2.Explore interactive dashboards to filter and compare players.
 
-Use insights to shortlist players for the club roster.
+3.Use insights to shortlist players for the club roster.
